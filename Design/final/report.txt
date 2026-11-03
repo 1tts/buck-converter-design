@@ -1,0 +1,10 @@
+Updated 1uF from CF to CF1.
+Updated TestPoint from EN_TP to EN_TP1.
+Updated TestPoint from InputGND_TP to InputGND_TP1.
+Updated TestPoint from OutputGND_TP to OutputGND_TP1.
+Updated TestPoint from Pgood_TP to Pgood_TP1.
+Updated 1 from RF to RF1.
+Updated TestPoint from SW_TP to SW_TP1.
+Updated TestPoint from Vin_TP to Vin_TP1.
+Updated TestPoint from Vout_TP to Vout_TP1.
+Annotation complete.
